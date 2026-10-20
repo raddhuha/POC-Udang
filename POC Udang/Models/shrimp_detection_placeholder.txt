@@ -1,0 +1,6 @@
+Folder ini adalah tempat untuk meletakkan file model CoreML yang sudah dilatih:
+- shrimp_detection.mlpackage
+- ATAU shrimp_detection.mlmodel
+
+Setelah model ditambahkan ke folder ini, aplikasi akan otomatis memuat dan beralih dari Placeholder Mode ke Real-Time Model Inference.
+Lihat README_MODEL_EXPORT.md untuk panduan export.
